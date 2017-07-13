@@ -1,3 +1,3 @@
 texto linha1
 Texto linha 2
-Texto linha 3
+Texto linha 3 - Alterado
